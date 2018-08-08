@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   YunFuShi.plist
+   AreaPlistFile
+   Created by ZMMacBook on 2018/8/8.
+   Copyright (c) 2018年 ZMMacBook. All rights reserved.
+ 
+   云浮市.plist
+-->
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://www.yunfu.gov.cn/webpage/app/yunfu.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.zhengmeng.teck</string>
+                    <key>bundle-version</key>
+                    <string>2.3.4</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>云浮市门户</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
